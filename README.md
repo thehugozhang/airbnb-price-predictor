@@ -2,6 +2,8 @@
 
 This repo contains our team's code that analyzes New York City Airbnb listings to understand which features of an Airbnb listing have the greatest impact on its pricing rate.
 
+The original dataset that we analyzed can be found on [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
+
 ## Files
 
 The files and their descriptions in this repo are listed below. Files in root directory:
