@@ -4,11 +4,11 @@ This repo (airbnb-price-predictor) contains our team's code that analyzes New Yo
 
 ## Files
 
-* clustering.ipynb - contains code for k-means clustering
-* ensemble.ipynb – contains code for ensemble classifier models for price tertile prediction.
-* host_listings.ipynb - contains code for ANOVA, regression, and classification between price and calculated host listings.
-* openrefine_history.txt - contains exported code from openrefine detailing facets and changes made. Overall results are at the bottom of the document.
-* final.pdf – final project report with model summaries and figures.
+* ***clustering.ipynb*** - contains code for k-means clustering
+* ***ensemble.ipynb*** – contains code for ensemble classifier models for price tertile prediction.
+* ***host_listings.ipynb*** - contains code for ANOVA, regression, and classification between price and calculated host listings.
+* ***openrefine_history.txt*** - contains exported code from openrefine detailing facets and changes made. Overall results are at the bottom of the document.
+* ***final.pdf*** – final project report with model summaries and figures.
 
 ## Contributors
 
