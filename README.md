@@ -1,6 +1,6 @@
 # airbnb-price-predictor
 
-This repo (airbnb-price-predictor) contains our team's code that analyzes New York City Airbnb listings to understand which features of an Airbnb listing have the greatest impact on its pricing rate.
+This repo contains our team's code that analyzes New York City Airbnb listings to understand which features of an Airbnb listing have the greatest impact on its pricing rate.
 
 ## Files
 
