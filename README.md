@@ -4,11 +4,22 @@ This repo contains our team's code that analyzes New York City Airbnb listings t
 
 ## Files
 
-* ***clustering.ipynb*** - contains code for k-means clustering
+The files and their descriptions in this repo are listed below. Files in root directory:
+* ***final.pdf*** – final project report with model summaries and figures.
+
+Files in "data/" directory:
+* ***airbnb_clean.csv*** - contains the cleaned dataset that we performed our analyses with.
+* ***openrefine_history.txt*** - contains exported code from openrefine detailing facets and changes made. Overall results are at the bottom of the document.
+
+Files in "code/" directory :
+* ***clustering.ipynb*** - contains code for k-means clustering.
 * ***ensemble.ipynb*** – contains code for ensemble classifier models for price tertile prediction.
 * ***host_listings.ipynb*** - contains code for ANOVA, regression, and classification between price and calculated host listings.
-* ***openrefine_history.txt*** - contains exported code from openrefine detailing facets and changes made. Overall results are at the bottom of the document.
-* ***final.pdf*** – final project report with model summaries and figures.
+
+Files in "export/" directory:
+* ***clustering.html*** - exported HTML of clustering.ipynb.
+* ***ensemble.html*** – exported HTML of ensemble.ipynb.
+* ***host_listings.html*** - exported HTMl of host_listings.ipynb.
 
 ## Contributors
 
